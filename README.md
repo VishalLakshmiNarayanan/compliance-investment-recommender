@@ -2,7 +2,7 @@
 <h3>AI-Driven, Behavior-Based Policy Recommendations with Risk-Suitability & Regulatory Compliance Enforcement</h3>
 
 <p>
-Traditional investment recommendation systems optimize returns — but rarely consider <b>liquidity needs</b>, <b>customer suitability</b>, and <b>regulatory compliance</b>.<br>
+Traditional investment recommendation systems optimize returns but rarely consider <b>liquidity needs</b>, <b>customer suitability</b>, and <b>regulatory compliance</b>.<br>
 This system prioritizes <b>financial safety</b> and <b>responsible recommendation</b> by analyzing spending behavior, volatility, surplus ratios, and debt exposure before predicting investment products.
 </p>
 
